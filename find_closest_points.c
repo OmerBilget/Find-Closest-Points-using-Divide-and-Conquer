@@ -1,6 +1,3 @@
-//19011067-Ömer Sinan Bilget
-//Find Closest Points Using Divide And Conquer Algorithm
-
 
 
 #include <stdio.h>
